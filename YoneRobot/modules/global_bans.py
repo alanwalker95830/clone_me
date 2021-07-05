@@ -164,7 +164,7 @@ def gban(update: Update, context: CallbackContext):
 
         return
 
-    message.reply_text("🗽Globally Banned 🗽 for ungban appeal here @malayalam_chattingnew")
+    message.reply_text("🗽Globally Banned 🗽 user 🆔 added to gbanwatch")
 
     start_time = time.time()
     datetime_fmt = "%Y-%m-%dT%H:%M"
